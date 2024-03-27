@@ -17,13 +17,13 @@ const musicData = [
     musicPath: "https://cdn1.suno.ai/453c0bd2-95e0-48ad-8ae1-18b229259952.mp3",
   },
   {
-    backgroundImage: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
-    posterUrl: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
-    title: "Tanah Air Beta (ID)",
+    backgroundImage: "https://cdn.midjourney.com/24720f49-17f5-460e-97b7-b80e82a21856/0_3.webp",
+    posterUrl: "https://cdn.midjourney.com/24720f49-17f5-460e-97b7-b80e82a21856/0_3.webp",
+    title: "夢の旅 (JP)",
     album: "suno",
     year: 2023,
     artist: "Damar Jati",
-    musicPath: "https://cdn1.suno.ai/ac1344f1-9cd4-4eb1-af4f-51cafc0fb4ce.mp3",
+    musicPath: "https://cdn1.suno.ai/5517abd6-e8da-4d7a-9877-2f93549ca81d.mp3",
   },
   {
     backgroundImage: "https://cdn.midjourney.com/48a1b778-59ac-4b40-821b-5305d4f89a5f/0_2.webp",
@@ -33,6 +33,15 @@ const musicData = [
     year: 2023,
     artist: "Damar Jati",
     musicPath: "https://cdn1.suno.ai/4faf56b8-86db-4a6f-aa19-d18c6d35d814.mp3",
+  },
+  {
+    backgroundImage: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
+    posterUrl: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
+    title: "Tanah Air Beta (ID)",
+    album: "suno",
+    year: 2023,
+    artist: "Damar Jati",
+    musicPath: "https://cdn1.suno.ai/ac1344f1-9cd4-4eb1-af4f-51cafc0fb4ce.mp3",
   },
 ];
 
