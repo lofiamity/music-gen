@@ -17,6 +17,15 @@ const musicData = [
     musicPath: "https://cdn1.suno.ai/453c0bd2-95e0-48ad-8ae1-18b229259952.mp3",
   },
   {
+    'backgroundImage': 'https://cdn.midjourney.com/e9ec21ae-5e93-4b4b-bdf0-c866ba259df5/0_2.webp', 
+    'posterUrl': 'https://cdn.midjourney.com/e9ec21ae-5e93-4b4b-bdf0-c866ba259df5/0_2.webp', 
+    'title': '未来の遊び', 
+    'album': 'suno', 
+    'year': 2023, 
+    'artist': 'Damar Jati', 
+    'musicPath': 'https://cdn1.suno.ai/e43585df-5c07-4260-8c8a-785b4b30cd50.mp3'
+  },
+  {
     backgroundImage: "https://cdn.midjourney.com/24720f49-17f5-460e-97b7-b80e82a21856/0_3.webp",
     posterUrl: "https://cdn.midjourney.com/24720f49-17f5-460e-97b7-b80e82a21856/0_3.webp",
     title: "夢の旅 (JP)",
