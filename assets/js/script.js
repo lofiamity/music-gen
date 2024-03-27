@@ -8,8 +8,8 @@
 
 const musicData = [
   {
-    backgroundImage: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
-    posterUrl: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
+    backgroundImage: "https://cdn.midjourney.com/892e28ca-8643-42b6-b3a7-33b8b9b06f59/0_1.webp",
+    posterUrl: "https://cdn.midjourney.com/892e28ca-8643-42b6-b3a7-33b8b9b06f59/0_1.webp",
     title: "世界の愛の色 (JP)",
     album: "suno",
     year: 2023,
@@ -17,8 +17,8 @@ const musicData = [
     musicPath: "https://cdn1.suno.ai/453c0bd2-95e0-48ad-8ae1-18b229259952.mp3",
   },
   {
-    backgroundImage: "https://cdn.midjourney.com/892e28ca-8643-42b6-b3a7-33b8b9b06f59/0_1.webp",
-    posterUrl: "https://cdn.midjourney.com/892e28ca-8643-42b6-b3a7-33b8b9b06f59/0_1.webp",
+    backgroundImage: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
+    posterUrl: "https://cdn.midjourney.com/83ce7550-11ba-42b7-9761-925b2bb51e55/0_0.webp",
     title: "Tanah Air Beta (ID)",
     album: "suno",
     year: 2023,
