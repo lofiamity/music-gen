@@ -25,6 +25,15 @@ const musicData = [
     artist: "Damar Jati",
     musicPath: "https://cdn1.suno.ai/ac1344f1-9cd4-4eb1-af4f-51cafc0fb4ce.mp3",
   },
+  {
+    backgroundImage: "https://cdn.midjourney.com/48a1b778-59ac-4b40-821b-5305d4f89a5f/0_2.webp",
+    posterUrl: "https://cdn.midjourney.com/48a1b778-59ac-4b40-821b-5305d4f89a5f/0_2.webp",
+    title: "風の調和 (JP)",
+    album: "suno",
+    year: 2023,
+    artist: "Damar Jati",
+    musicPath: "https://cdn1.suno.ai/4faf56b8-86db-4a6f-aa19-d18c6d35d814.mp3",
+  },
 ];
 
 
